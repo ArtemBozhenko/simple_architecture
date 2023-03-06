@@ -1,0 +1,7 @@
+android
+ios
+.env
+node_modules
+.eslintrc.js
+storybook
+metro.config.js
